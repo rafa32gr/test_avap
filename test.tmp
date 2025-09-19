@@ -1,0 +1,34 @@
+{
+  "versionsData": [
+    {
+      "customName": "Title",
+      "major": 1,
+      "minor": 0,
+      "levels": [
+        [
+          {
+            "id": "1758322989664c0ol5lx",
+            "type": "assert",
+            "name": "Assert That function",
+            "text": "",
+            "styles": {
+              "fontFamily": "Arial, sans-serif",
+              "fontSize": "16px",
+              "backgroundColor": "transparent"
+            },
+            "config": {},
+            "keyValueData": {
+              "result": "Hello world!"
+            }
+          }
+        ]
+      ],
+      "visible": [
+        0
+      ],
+      "selected": -1,
+      "isDirty": true,
+      "modification": "Fri Sep 19 2025 16:02:47 GMT-0700 (hora de verano del Pacífico)"
+    }
+  ]
+}
