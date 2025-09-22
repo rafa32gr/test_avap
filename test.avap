@@ -1,3 +1,4 @@
+addVar(var4,"bien")
 addVar(var3,"quetal")
 addVar(var2,"adios")
 addVar(var1,"hola")
