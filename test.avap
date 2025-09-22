@@ -1,2 +1,3 @@
+addVar(var1,"hola")
 addResult("Hello world!")
 
